@@ -18,8 +18,8 @@ Como desarrollador web Junior, tengo experiencia y conocimientos en las siguient
 
 Aquí algunos de los proyectos en los que he estado trabajando:
 
-- [Proyecto 1](https://github.com/Uppussa/Pokedex-React-main.git)
-- [Proyecto 2](https://github.com/Uppussa/windbnb.git)
+- [Proyecto 1](https://poke-pink.vercel.app/)
+- [Proyecto 2](https://page-cali.vercel.app/)
 
 
 ## Conéctate conmigo
