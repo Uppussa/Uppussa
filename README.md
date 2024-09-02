@@ -1,7 +1,10 @@
-# ¡Hola, soy Jose Gregorio Diaz!
+# ¡Hola, soy Jose Diaz!
 
-Bienvenido a mi perfil de GitHub. Soy un desarrollador web Junior apasionado por aprender nuevas tecnologías y métodos.
+Soy Desarrollador Web apasionado por aprender nuevas tecnologías y métodos,
 Estoy entusiasmado por seguir creciendo en este campo dinámico y siempre busco oportunidades para mejorar mis habilidades.
+Soy apasionado, empático, con competencias enfocadas en el trabajo en equipo, comunicación asertiva, responsable y proactivo.
+Me gusta retarme y siempre estoy dispuesto a adquirir nuevos conocimientos. Aspiro a conseguir mi primer empleo en el mundo del Desarrollo Web, 
+adquirir experiencia y fortalecer mi vida profesional.
 
 ## Sobre mí
 
